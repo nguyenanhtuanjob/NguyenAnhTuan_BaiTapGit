@@ -7,3 +7,7 @@ var funcMain = function(){
 var funcMain = function(){
     console.log('logDoneBaiTapBuoi2');
 }
+
+var funcMain = function(){
+    console.log('logDoneBaiTapBuoi3_1');
+}
